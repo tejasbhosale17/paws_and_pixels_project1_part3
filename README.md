@@ -1,6 +1,6 @@
 # Project 1 Part 3 — S3 Deployment
 
-**Deployed URL:** (http://paws-and-pixels-project1-part3-web.s3-website-us-east-1.amazonaws.com/)
+**Deployed URL:** (http://paws-pixels-project1-part3.s3-website-us-east-1.amazonaws.com/signin)
 
 ## What’s included
 - All HTML, CSS, JavaScript
